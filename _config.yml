@@ -41,14 +41,16 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Joshua Kroger
-  email: something@joshuakroger.com             # change to your email address
+  email: contact@joshuakroger.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://www.linkedin.com/in/joshua-kroger-57520a26
     - https://twitter.com/JoshuaKroger      # change to your twitter homepage
     - https://github.com/ProbieK       # change to your github homepage
+
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+
 
 google_site_verification:               # fill in to your verification string
 
@@ -83,7 +85,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/378800000698887039/c69dd1356955c89fbfabcfd5bc39ea83_400x400.jpeg
+avatar: /assets/img/main/hacker-emblem.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
