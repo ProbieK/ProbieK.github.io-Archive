@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 ```
@@ -30,5 +30,5 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 $ hostname
 blog.joshuakroger.com
 $ id
-uid=1000(joshua) gid=1000(joshua) groups 1000(joshua),22(sudo)
+uid=1000(joshua) gid=1000(kroger) groups 1000(kroger),22(sudo)
 ```
