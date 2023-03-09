@@ -35,3 +35,4 @@ blog.joshuakroger.com
 $ id
 uid=1000(joshua) gid=1000(kroger) groups 1000(kroger),22(sudo)
 ```
+
